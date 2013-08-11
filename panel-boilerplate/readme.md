@@ -1,0 +1,1 @@
+See https://github.com/thingsinjars/devtools-extension for more information for now. This version aims to have more structure and will patch the existing bugs in the above implementation.
