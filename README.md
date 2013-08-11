@@ -5,8 +5,8 @@ A starting point for developing Chrome DevTools Extensions.
 
 ## Listing
 
-* panel-boilerplate: a boilerplate for full panel based extensions ~ currently displays panel, but messaging doesn't work
-* sidebar-boilerplate: a boilerplate for sidebar extensions
+* panel-boilerplate: a boilerplate for full panel based extensions ~ currently displays panel (see -messaging variant for WIP of message passing)
+* sidebar-boilerplate: a boilerplate for sidebar extensions ~ displays sidebar
 
 ## Installation
 
@@ -16,7 +16,7 @@ A starting point for developing Chrome DevTools Extensions.
 
 ## Community samples
 
-* Sidebar (KnockoutJS Debugger) - https://github.com/timstuyckens/chromeextensions-knockoutjs. See [this](https://github.com/timstuyckens/chromeextensions-knockoutjs/commit/b85c0ecdfe035c4f638de9214c56dbdd2544b097) commit in particular for a version without as much cruft.
+* Sidebar (KnockoutJS Debugger) - https://github.com/timstuyckens/chromeextensions-knockoutjs
 * Panel (Backbone DevTools) - https://github.com/spect88/backbone-devtools
 
 ## Reference

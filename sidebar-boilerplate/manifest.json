@@ -1,0 +1,11 @@
+{
+  "name": "DevTools sidebar",
+  "version": "0.1",
+  "description": "Shows context & data for the selected dom node in a sidebar of the elements pane.",
+  "devtools_page": "devtools.html",
+  "permissions": ["tabs"],
+   "background": {
+    "scripts": ["background.js"]
+  },
+  "manifest_version": 2
+}
