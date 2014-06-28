@@ -1,7 +1,7 @@
 
-//you cannot use the chrome.windows api in the devtools.js page.
+// Do something on change of focus
 chrome.windows.onFocusChanged.addListener(function(windowId) {
-	//send message to devtool.js. Then you can re-evaluate ko.dataFor($0)
+	// send message to devtool.js.
 	chrome.tabs.getSelected(null, function(tab) {
 	  chrome.tabs.sendMessage(tab.id, {}, function(response) {
 	  });

@@ -1,23 +1,18 @@
-DevTools Extension Boilerplate
+DevTools Extension Boilerplates
 ==============
 
 A starting point for developing Chrome DevTools Extensions.
 
 ## Listing
 
+* sidebar-boilerplate: a boilerplate for sidebar extensions 
 * panel-boilerplate: a boilerplate for full panel based extensions ~ currently displays panel (see -messaging variant for WIP of message passing)
-* sidebar-boilerplate: a boilerplate for sidebar extensions ~ displays sidebar
 
 ## Installation
 
  * Open [chrome://extensions](chrome://extensions)
  * Enable 'Developer Mode' checkbox
  * Click 'Load unpacked extensions...'
-
-## Community samples
-
-* Sidebar (KnockoutJS Debugger) - https://github.com/timstuyckens/chromeextensions-knockoutjs
-* Panel (Backbone DevTools) - https://github.com/spect88/backbone-devtools
 
 ## Reference
 
