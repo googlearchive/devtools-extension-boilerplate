@@ -1,12 +1,21 @@
-DevTools Extension Boilerplates
+DevTools Extension Boilerplates (WIP)
 ==============
 
 A starting point for developing Chrome DevTools Extensions.
 
 ## Listing
 
-* sidebar-boilerplate: a boilerplate for sidebar extensions 
-* panel-boilerplate: a boilerplate for full panel based extensions ~ currently displays panel (see -messaging variant for WIP of message passing)
+### sidebar-boilerplate
+
+A boilerplate for sidebar extensions 
+
+![](http://i.imgur.com/zEc06y6.png)
+
+### panel-boilerplate
+
+Aboilerplate for full panel based extensions ~ currently displays panel (see -messaging variant for WIP of message passing)
+
+![](http://i.imgur.com/MA3mFcy.png)
 
 ## Installation
 
