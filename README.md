@@ -13,7 +13,7 @@ A boilerplate for sidebar extensions
 
 ### panel-boilerplate
 
-Aboilerplate for full panel based extensions ~ currently displays panel (see -messaging variant for WIP of message passing)
+A boilerplate for full panel based extensions ~ currently displays panel (see -messaging variant for WIP of message passing)
 
 ![](http://i.imgur.com/MA3mFcy.png)
 
